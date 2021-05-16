@@ -12,7 +12,12 @@ You can check my online resume at [shantoroy.com/resume/][1].
 - LinkedIn: [linkedin.com/in/natterstefan][4]
 - Scholar Profile: [Google Scholar](https://scholar.google.com/citations?user=OMGYMbwAAAAJ&hl=en)
 
-
+## Interests
+- Primary research interest: **Cyber Security**
+- Industrial Interest: DevSecOps
+- Currently Working on **Cyber Deception** and **IoT Remote Attestation**
+- Currently exploring the use of **Game Theory** and **Machine/Reinforcement Learning** in Cyber Security
+- Personal Life: Traveling, Cycling, and Music
 
 
 [1]: https://www.shantoroy.com/resume/
