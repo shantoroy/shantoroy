@@ -10,7 +10,7 @@ You can check my online resume at [shantoroy.com/resume/][1].
 - Web: [shantoroy.me][2]
 - Blog: [shantoroy.com][3]
 - LinkedIn: [linkedin.com/in/natterstefan][4]
-- Scholar Profile: (Google Scholar)[https://scholar.google.com/citations?user=OMGYMbwAAAAJ&hl=en]
+- Scholar Profile: [Google Scholar](https://scholar.google.com/citations?user=OMGYMbwAAAAJ&hl=en)
 
 
 
