@@ -20,6 +20,15 @@ You can check my online resume at [shantoroy.com/resume/][1].
 - Personal Life: Traveling, Cycling, and Music
 
 
+## Latest Blog Posts
+- [Write a Simple Virus in Python](https://shantoroy.com/security/write-a-virus-in-python/)
+- [Write a Worm (Malware) in Python](https://shantoroy.com/security/write-a-worm-malware-in-python/)
+- [Write a Backdoor in Python](https://shantoroy.com/security/simple-backdoor-using-python/)
+- [A Basic Keylogger in Python](https://shantoroy.com/security/a-simple-keylogger-in-python/)
+- [Passive Operating System Fingerprinting by Analyzing PCAP files](https://shantoroy.com/security/operating-system-fingerprinting/)
+
+:point_right:  [more bog posts...](https://www.shantoroy.com)
+
 [1]: https://www.shantoroy.com/resume/
 [2]: https://www.shantoroy.me
 [3]: https://www.shantoroy.com
