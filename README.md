@@ -27,7 +27,7 @@ You can check my online resume at [shantoroy.com/resume/][1].
 - [A Basic Keylogger in Python](https://shantoroy.com/security/a-simple-keylogger-in-python/)
 - [Passive Operating System Fingerprinting by Analyzing PCAP files](https://shantoroy.com/security/operating-system-fingerprinting/)
 
-:point_right:   [read more bog posts...](https://www.shantoroy.com)
+:point_right: &nbsp;&nbsp;&nbsp; [read more bog posts...](https://www.shantoroy.com)
 
 [1]: https://www.shantoroy.com/resume/
 [2]: https://www.shantoroy.me
