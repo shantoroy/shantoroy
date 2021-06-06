@@ -9,7 +9,7 @@ You can check my online resume at [shantoroy.com/resume/][1].
 
 - Web: [shantoroy.me][2]
 - Blog: [shantoroy.com][3]
-- LinkedIn: [https://www.linkedin.com/in/shanto-roy/][4]
+- LinkedIn: [shanto-roy][4]
 - Scholar Profile: [Google Scholar](https://scholar.google.com/citations?user=OMGYMbwAAAAJ&hl=en)
 
 ## Interests
