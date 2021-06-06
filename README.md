@@ -14,7 +14,7 @@ You can check my online resume at [shantoroy.com/resume/][1].
 
 ## Interests
 - Primary research interest: **Cyber Security**
-- Industrial Interest: **DevSecOps**
+- Industrial Interest: **DevSecOps** and **Network Security**
 - Currently Working on **Cyber Deception** and **IoT Remote Attestation**
 - Currently exploring the use of **Game Theory** and **Machine/Reinforcement Learning** in Cyber Security
 - Personal Life: Traveling, Cycling, and Music
