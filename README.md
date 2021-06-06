@@ -9,7 +9,7 @@ You can check my online resume at [shantoroy.com/resume/][1].
 
 - Web: [shantoroy.me][2]
 - Blog: [shantoroy.com][3]
-- LinkedIn: [linkedin.com/in/natterstefan][4]
+- LinkedIn: [https://www.linkedin.com/in/shanto-roy/][4]
 - Scholar Profile: [Google Scholar](https://scholar.google.com/citations?user=OMGYMbwAAAAJ&hl=en)
 
 ## Interests
@@ -21,6 +21,8 @@ You can check my online resume at [shantoroy.com/resume/][1].
 
 
 ## Latest Blog Posts
+- [Write a Reverse Proxy Server in Python: Part 1 (Reverse Proxy Server)](https://shantoroy.com/network/write-a-reverse-proxy-server-in-python/)
+- [Introduction to Reinforcement Learning (Part 01: Basic Concepts)](https://shantoroy.com/reinforcement-learning/intro-to-reinforcement-learning-part1-basic-concepts/)
 - [Write a Simple Virus in Python](https://shantoroy.com/security/write-a-virus-in-python/)
 - [Write a Worm (Malware) in Python](https://shantoroy.com/security/write-a-worm-malware-in-python/)
 - [Write a Backdoor in Python](https://shantoroy.com/security/simple-backdoor-using-python/)
