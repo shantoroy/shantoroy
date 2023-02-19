@@ -1,7 +1,7 @@
 
 Hi 👋🏻,
 
-I am working as a **Graduate Teaching/Research Assistant** and enrolled as a **Ph.D. student** at the Department of Computer Science, University of Houston. I received my **MS in Computer Science** in 2022 and my expected completion of Ph.D. is December 2023. My primary research interest is in **Cyber Security**, Data Science & ML, Cloud-IoT ecosystem security, etc. I am also interested in System Admin, DevSecOps, and Automation. Currently, I am researching on **Cyber Deception** under the supervision of **Dr. Omprakash Gnawali** in the **Networked Systems Laboratory** and **Dr. Aron Laszka** in the **Resilient Network and Systems Lab**.
+I have been working as a **Graduate Teaching/Research Assistant** and enrolled as a **Ph.D. student** at the Department of Computer Science, University of Houston, since August 2019. I received my **MS in Computer Science** in 2022, and my expected completion of Ph.D. is December 2023. My primary research interest is in **Cyber Security**, Data Science & ML, Cloud-IoT ecosystem security, etc. I am also interested in System Admin, DevSecOps, and Automation. Currently, I am researching **Cyber Deception** under the supervision of **Dr. Omprakash Gnawali** in the **Networked Systems Laboratory** and **Dr. Aron Laszka** in the **Resilient Network and Systems Lab**.
 
 You can check my online resume at [shantoroy.com/resume/][1].
 
