@@ -14,13 +14,13 @@ You can check my online resume at [shantoroy.com/resume/][1].
 
 ## Interests
 - Primary research interest: **Cyber Security**
-- Industrial Interest: **DevSecOps** and **Network Security**
-- Currently Working on **Cyber Deception** and **IoT Remote Attestation**
-- Currently exploring the use of **Game Theory** and **Machine/Reinforcement Learning** in Cyber Security
-- Personal Life: Traveling, Cycling, and Music
+- Industrial Interest: **DevSecOps**, **Site Reliability Engineering (SRE)** and **Network/Information Security Analysis/Engineering**
+- Currently Working on **Cyber Deception**
+- Currently exploring how Honeypots can be utilized for further Deception
+- Other Interests: Blogging, Traveling, Cycling, Hiking, and Music
 
 
-## Latest Blog Posts
+## Blog Posts
 - [Write a Reverse Proxy Server in Python: Part 1 (Reverse Proxy Server)](https://shantoroy.com/network/write-a-reverse-proxy-server-in-python/)
 - [Introduction to Reinforcement Learning (Part 01: Basic Concepts)](https://shantoroy.com/reinforcement-learning/intro-to-reinforcement-learning-part1-basic-concepts/)
 - [Write a Simple Virus in Python](https://shantoroy.com/security/write-a-virus-in-python/)
