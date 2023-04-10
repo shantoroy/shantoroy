@@ -21,6 +21,8 @@ You can check my online resume at [shantoroy.com/resume/][1].
 
 
 ## Blog Posts
+- [AI won’t replace us, but a person using AI will!](https://medium.com/@shantoroy/ai-wont-replace-us-but-a-person-using-ai-will-d73d84c665ce)
+- [How to Avoid Phone/Email Scams!](https://medium.com/@shantoroy/how-to-avoid-phone-email-scams-fb7294f0701f)
 - [Write a Reverse Proxy Server in Python: Part 1 (Reverse Proxy Server)](https://shantoroy.com/network/write-a-reverse-proxy-server-in-python/)
 - [Introduction to Reinforcement Learning (Part 01: Basic Concepts)](https://shantoroy.com/reinforcement-learning/intro-to-reinforcement-learning-part1-basic-concepts/)
 - [Write a Simple Virus in Python](https://shantoroy.com/security/write-a-virus-in-python/)
