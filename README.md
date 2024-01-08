@@ -8,14 +8,15 @@ You can check my online resume at [shantoroy.com/resume/][1].
 ## Find me
 
 - Web: [shantoroy.me][2]
-- Blog: [shantoroy.com][3]
+- Tech Blog: [shantoroy.com][3]
+- Travel Blog: [digitalnomadgoals.com](https://digitalnomadgoals.com/)
 - LinkedIn: [shanto-roy][4]
 - Scholar Profile: [Google Scholar](https://scholar.google.com/citations?user=OMGYMbwAAAAJ&hl=en)
 
 ## Updates
 - I have started my #100daychallenge for learning and sharing resources on Site Reliability Engineering. I will be sharing my journey as a blog post under the tag '#100daysofSRE' on my blog. You can navigate the list of contents on [my Medium post](https://medium.com/@shantoroy/learning-about-site-reliability-engineering-with-the-100daysofsre-challenge-66380323c0d1) or [this GitHub Repo](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fshantoroy%2Fsite-reliability-engineering-101&sa=D). 
 - We have submitted a new paper entitled "**SoK: The MITRE ATT&CK Framework in Research and Practice**" at a cyber security conference. The preprint is [available on Arxiv](https://arxiv.org/abs/2304.07411). In this work, we explored the use cases and applications of MITRE ATT&CK in Academic Research and Industry. Feel free to read and cite the work if relevant.
-- I am going to join [Charles Schwab](https://www.schwab.com/) (Headquarters at Westlake, TX) as a Summer 2023 Intern (Site Reliability Engineering & CYBER). 
+- I have successfully completed my summer 2023 internship (Site Reliability Engineering & CYBER) [Charles Schwab](https://www.schwab.com/) (Headquarters at Westlake, TX). 
 - I have started writing on the Medium Blog Platform. [Follow me here](https://medium.com/@shantoroy). I have also started publishing a weekly newsletter with my updates and learning journey on Substack. Feel free to [subscribe here](https://shantoroy.substack.com/).
 - You can check out my GitHub Repository entitled [CyberSecurity Concepts in Python](https://github.com/shantoroy/intro-2-cybersecurity-in-python) that provides different security concepts in Python. Blog Posts are also available alongside codes. Please find the links in the README.md file. Find more posts on my blog [shantoroy.com](https://shantoroy.com/).
 
