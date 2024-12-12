@@ -1,9 +1,7 @@
 
 Hi 👋🏻,
 
-I have been working as a **Site Reliability Engineer** at Charles Schwab since June 2024. Earlier I worked as a **Graduate Teaching/Research Assistant** and completed my **MS** and **Ph.D.** at the Department of Computer Science, University of Houston (August 2019 - May 2024). During my Ph.D., I researched **Cyber Deception** under the supervision of **Dr. Omprakash Gnawali** in the **Networked Systems Laboratory** and **Dr. Aron Laszka** in the **Resilient Network and Systems Lab**. Before coming to the USA for higher studies, I worked as a **Lecturer** at the Department of Computer Science, Green University of Bangladesh (May 2016 - July 2019), followed by my **MS** and **B.Sc.** in IT at the Institute of Information Technology, Jahangirnagar University.
-
-You can check my online resume at [shantoroy.com/resume/][1].
+I have been working as a **Site Reliability Engineer** at Charles Schwab, DFW, TX, since June 2024. Earlier, I worked as a **Graduate Teaching/Research Assistant** and completed my **MS** and **Ph.D.** at the Department of Computer Science, University of Houston (August 2019 - May 2024). During my Ph.D., I researched **Cyber Deception** under the supervision of **Dr. Omprakash Gnawali** in the **Networked Systems Laboratory** and **Dr. Aron Laszka** in the **Resilient Network and Systems Lab**. Before coming to the USA for higher studies, I worked as a **Lecturer** at the Department of Computer Science, Green University of Bangladesh (May 2016 - July 2019), followed by my **MS** and **B.Sc.** in IT at the Institute of Information Technology, Jahangirnagar University, Bangladesh.
 
 ## Find me
 
@@ -42,7 +40,6 @@ You can check my online resume at [shantoroy.com/resume/][1].
 
 :point_right: &nbsp;&nbsp;&nbsp; [read more bog posts...](https://www.shantoroy.com)
 
-[1]: https://www.shantoroy.com/resume/
 [2]: https://www.shantoroy.me
 [3]: https://www.shantoroy.com
 [4]: https://www.linkedin.com/in/shanto-roy/
