@@ -1,7 +1,7 @@
 
 Hi 👋🏻,
 
-I have been working as a **Graduate Teaching/Research Assistant** and enrolled as a **Ph.D. student** at the Department of Computer Science, University of Houston, since August 2019. I received my **MS in Computer Science** in 2022, and my expected completion of Ph.D. is December 2023. My primary research interest is in **Cyber Security**, Data Science & ML, Cloud-IoT ecosystem security, etc. I am also interested in System Admin, DevSecOps, and Automation. Currently, I am researching **Cyber Deception** under the supervision of **Dr. Omprakash Gnawali** in the **Networked Systems Laboratory** and **Dr. Aron Laszka** in the **Resilient Network and Systems Lab**.
+I have been working as a **Site Reliability Engineer** at Charles Schwab since June 2024. Earlier I worked as a **Graduate Teaching/Research Assistant** and completed my **MS** and **Ph.D.** at the Department of Computer Science, University of Houston (August 2019 - May 2024). During my Ph.D., I researched **Cyber Deception** under the supervision of **Dr. Omprakash Gnawali** in the **Networked Systems Laboratory** and **Dr. Aron Laszka** in the **Resilient Network and Systems Lab**. Before coming to the USA for higher studies, I worked as a **Lecturer** at the Department of Computer Science, Green University of Bangladesh (May 2016 - July 2019), followed by my **MS** and **B.Sc.** in IT at the Institute of Information Technology, Jahangirnagar University.
 
 You can check my online resume at [shantoroy.com/resume/][1].
 
