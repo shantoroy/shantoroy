@@ -10,12 +10,18 @@ I have been working as a **Site Reliability Engineer** at Charles Schwab, DFW, T
 - Travel Blog: [digitalnomadgoals.com](https://digitalnomadgoals.com/)
 - LinkedIn: [shanto-roy][4]
 - Scholar Profile: [Google Scholar](https://scholar.google.com/citations?user=OMGYMbwAAAAJ&hl=en)
+- Credly: [shantoroy](credly.com/users/shantoroy)
 
 ## Updates
+- My recent certifications:
+  1. GCP Associate Cloud Engineer
+  2. Professional Scrum Master™ I (PSM I)
+  3. AWS Certified AI Practitioner
+- I have started a project for Certification Preparation where you can prepare for different certification exam by going through practice questions.
 - I have started my #100daychallenge for learning and sharing resources on Site Reliability Engineering. I will be sharing my journey as a blog post under the tag '#100daysofSRE' on my blog. You can navigate the list of contents on [my Medium post](https://medium.com/@shantoroy/learning-about-site-reliability-engineering-with-the-100daysofsre-challenge-66380323c0d1) or [this GitHub Repo](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fshantoroy%2Fsite-reliability-engineering-101&sa=D). 
-- We have submitted a new paper entitled "**SoK: The MITRE ATT&CK Framework in Research and Practice**" at a cyber security conference. The preprint is [available on Arxiv](https://arxiv.org/abs/2304.07411). In this work, we explored the use cases and applications of MITRE ATT&CK in Academic Research and Industry. Feel free to read and cite the work if relevant.
-- I have successfully completed my summer 2023 internship (Site Reliability Engineering & CYBER) [Charles Schwab](https://www.schwab.com/) (Headquarters at Westlake, TX). 
-- I have started writing on the Medium Blog Platform. [Follow me here](https://medium.com/@shantoroy). I have also started publishing a weekly newsletter with my updates and learning journey on Substack. Feel free to [subscribe here](https://shantoroy.substack.com/).
+- We have submitted a new paper entitled "**SoK: The MITRE ATT&CK Framework in Research and Practice**" at a cyber security conference. The preprint is [available on Arxiv].(https://arxiv.org/abs/2304.07411). In this work, we explored the use cases and applications of MITRE ATT&CK in Academic Research and Industry. Feel free to read and cite the work if relevant.
+- I joined as a Site Reliability Engineer at [Charles Schwab](https://www.schwab.com/) in Texas, US.
+- I started writing on the Medium Blog Platform. [Follow me here](https://medium.com/@shantoroy). 
 - You can check out my GitHub Repository entitled [CyberSecurity Concepts in Python](https://github.com/shantoroy/intro-2-cybersecurity-in-python) that provides different security concepts in Python. Blog Posts are also available alongside codes. Please find the links in the README.md file. Find more posts on my blog [shantoroy.com](https://shantoroy.com/).
 
 
