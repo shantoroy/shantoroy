@@ -10,7 +10,7 @@ I have been working as a **Site Reliability Engineer** at Charles Schwab, DFW, T
 - Travel Blog: [digitalnomadgoals.com](https://digitalnomadgoals.com/)
 - LinkedIn: [shanto-roy][4]
 - Scholar Profile: [Google Scholar](https://scholar.google.com/citations?user=OMGYMbwAAAAJ&hl=en)
-- Credly: [shantoroy](credly.com/users/shantoroy)
+- Credly: [shantoroy](https://www.credly.com/users/shantoroy)
 
 ## Updates
 - My recent certifications:
